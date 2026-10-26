@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Argus is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by norwest-venture-partners) and added to the network as a stub for full-pipeline profiling.
-- https://argus.systems
+Argus builds AI-powered solutions for real‑world systems, delivering intelligent analytics, automation, and decision‑making tools for enterprises. Their platform integrates machine‑learning models into IoT and industrial workflows, helping customers optimize operations and unlock new value from data.
+
+**Areas:** Company · AI · Analytics · Automation · IoT · Enterprise
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://argus.systems)
+- [Trust centre](https://trust.argus.systems/)
+- [Privacy policy](https://argus.systems/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/argus-systems/](https://apis.io/providers/argus-systems/).
